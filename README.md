@@ -60,7 +60,7 @@ $ yarn start
 
 ### Banco de dados
 
-<img src="./sds3-md.png">
+<img src="./sds3-mc.png">
 
 ## Tecnologias
 
