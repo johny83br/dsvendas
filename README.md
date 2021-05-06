@@ -52,6 +52,16 @@ $ yarn start
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000/>
 ```
 
+## Esquemas para o Back end
+
+### Camadas
+
+<img src="./camadas.png">
+
+### Banco de dados
+
+<img src="./sds3-md.png">
+
 ## Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
