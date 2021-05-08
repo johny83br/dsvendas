@@ -12,7 +12,6 @@ const Home = () => {
           <p className="lead">Analise o desempenho das suas vendas por diferentes perspectivas</p>
           <hr/>
           <p>Esta aplicação consiste em exibir um dashboard a partir de dados fornecidos por um back end construído com Spring Boot.</p>
-          <p><pre>{JSON.stringify(process.env, undefined, 2)}</pre></p>
           <Link className="btn btn-primary btn-lg" to="/dashboard">
             Acessar o Dashboard
           </Link>
