@@ -17,7 +17,7 @@
 
 ## Sobre o Projeto
 
-Esta aplicação consiste em exibir um dashboard a partir de dados fornecidos por um back end construído com Spring Boot, realizado durante o SDS 3.0 que foi do dia 03/05/2021 a 09/05/2021 da <a href="https://devsuperior.com.br/">DevSuperior - Escola de Programação</a>.
+Esta aplicação consiste em exibir um dashboard feito em React a partir de dados fornecidos por um back end construído com Spring Boot, realizado durante o SDS 3.0 que foi do dia 03/05/2021 a 09/05/2021 da <a href="https://devsuperior.com.br/">DevSuperior - Escola de Programação</a>.
 
 ## Pré-requisitos
 
